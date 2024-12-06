@@ -1,0 +1,18 @@
+node_modules/
+.env
+dist/
+.DS_Store
+*.log
+*.tmp
+*.swp
+build/
+# Ignore virtual environments
+venv/
+*.pyc
+*.py[cod]
+__pycache__/
+
+# Ignore data files
+vectorStore.json
+data/processed/
+data/raw/
