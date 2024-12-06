@@ -1,0 +1,12 @@
+flask
+transformers
+torch
+requests
+openai
+python-dotenv
+accelerate
+sentencepiece
+bitsandbytes
+huggingface_hub
+protobuf
+traceback
